@@ -1,2 +1,10 @@
-# leetcode-solutions-rust
-Leetcode Solutions in Rust
+# LeetCode
+===========
+
+## LeetCode Algorithm
+
+
+
+| #   | Title | Solution | Difficulty |
+| --- | ----- | -------- | ---------- |
+| 1 | Title1 | Solution1 | Difficulty1 |
