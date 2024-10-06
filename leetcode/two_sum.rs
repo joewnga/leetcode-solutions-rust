@@ -18,7 +18,9 @@
 /// 
 /// 
 
-// Brute Force Approach:
+/// Brute Force Approach:
+/// Time complexity: O(n^2)
+/// Space complexity: O(1)
 impl Solution {
     pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
 
@@ -35,7 +37,9 @@ impl Solution {
 }
 
 
-// Optimal Solution:
+/// Optimal Solution:
+/// Time complexity: O(n)
+/// Space complexity: O(n)
 use std::collections::HashMap;
 
 impl Solution {

@@ -1,5 +1,6 @@
 # LeetCode Solutions in Rust
 
+Note that some of the solutions have both a brute force and optimal solution implemented
 
 ## LeetCode Algorithm
 
