@@ -17,8 +17,8 @@ Note that some of the solutions have multiple approaches implemented
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](./leetcode/palindrome_number.rs) | Easy |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Solution](./leetcode/regular_expression_matching.rs) | Hard |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./leetcode/container_with_most_water.rs) | Medium |
-| >12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution](./leetcode/integer_to_roman.rs) | Medium |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./leetcode/roman_to_integer.rs) | Easy |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution](./leetcode/integer_to_roman.rs) | Medium |
+| >13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./leetcode/roman_to_integer.rs) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./leetcode/longest_common_prefix.rs) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./leetcode/3sum.rs) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution](./leetcode/3sum_closest.rs) | Medium |
