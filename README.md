@@ -21,9 +21,9 @@ Note that some of the solutions have multiple approaches implemented
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./leetcode/roman_to_integer.rs) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./leetcode/longest_common_prefix.rs) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./leetcode/3sum.rs) | Medium |
-| >16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution](./leetcode/3sum_closest.rs) | Medium |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution](./leetcode/3sum_closest.rs) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./leetcode/letter_combinations.rs) | Medium |
-| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Solution](./leetcode/4sum.rs) | Medium |
+| >18 | [4Sum](https://leetcode.com/problems/4sum/) | [Solution](./leetcode/4sum.rs) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./leetcode/remove_nth_node.rs) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./leetcode/valid_parentheses.rs) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./leetcode/merge_two_sorted_lists.rs) | Easy |
