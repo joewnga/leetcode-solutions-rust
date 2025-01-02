@@ -23,8 +23,8 @@ Note that some of the solutions have multiple approaches implemented
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./leetcode/3sum.rs) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution](./leetcode/3sum_closest.rs) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./leetcode/letter_combinations.rs) | Medium |
-| >18 | [4Sum](https://leetcode.com/problems/4sum/) | [Solution](./leetcode/4sum.rs) | Medium |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./leetcode/remove_nth_node.rs) | Easy |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Solution](./leetcode/4sum.rs) | Medium |
+| >19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./leetcode/remove_nth_node.rs) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./leetcode/valid_parentheses.rs) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./leetcode/merge_two_sorted_lists.rs) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./leetcode/generate_parentheses.rs) | Medium |
