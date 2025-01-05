@@ -6,17 +6,14 @@
 /// Example 1:
 /// Input: head = [1,2,3,4,5], n = 2
 /// Output: [1,2,3,5]
-/// Explanation: The second node from the end is 4, so we remove it, resulting in [1,2,3,5].
 /// 
 /// Example 2:
 /// Input: head = [1], n = 1
 /// Output: []
-/// Explanation: There's only one node, which is removed.
 /// 
 /// Example 3:
 /// Input: head = [1,2], n = 1
 /// Output: [1]
-/// Explanation: The last node is removed.
 /// 
 /// # Solution:
 /// 
