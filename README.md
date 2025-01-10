@@ -29,8 +29,8 @@ Note that some of the solutions have multiple approaches implemented
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./leetcode/merge_two_sorted_lists.rs) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./leetcode/generate_parentheses.rs) | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./leetcode/merge_k_sorted_lists.rs) | Hard |
-| >24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./leetcode/swap_nodes_in_pairs.rs) | Medium |
-| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./leetcode/reverse_nodes_in_k_group.rs) | Hard |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./leetcode/swap_nodes_in_pairs.rs) | Medium |
+| >25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./leetcode/reverse_nodes_in_k_group.rs) | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./leetcode/remove_duplicates_from_sorted_array.rs) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](./leetcode/remove_element.rs) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./leetcode/implement_strStr.rs) | Easy |
