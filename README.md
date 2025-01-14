@@ -32,8 +32,8 @@ Note that some of the solutions have multiple approaches implemented
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./leetcode/swap_nodes_in_pairs.rs) | Medium |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./leetcode/reverse_nodes_in_k_group.rs) | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./leetcode/remove_duplicates_from_sorted_array.rs) | Easy |
-| >27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](./leetcode/remove_element.rs) | Easy |
-| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./leetcode/implement_strStr.rs) | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](./leetcode/remove_element.rs) | Easy |
+| >28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./leetcode/implement_strStr.rs) | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Solution](./leetcode/divide_two_integers.rs) | Medium |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./leetcode/substring_concatenation.rs) | Hard |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](./leetcode/next_permutation.rs) | Medium |
