@@ -24,34 +24,9 @@
 impl Solution {
     pub fn divide(mut dividend: i32, mut divisor: i32) -> i32 {
         if dividend == i32::MIN && divisor == -1 {
-            return i32::MAX;
+            return i32::MAX; 
         }
-
-        let negative = (dividend < 0) ^ (divisor < 0);
-
-        let mut dividend = dividend.abs() as i64;
-        let mut divisor = divisor.abs() as i64;
-
-        let mut quotient = 0;
-
-        
-        while dividend >= divisor {
-            let mut temp_divisor = divisor;
-            let mut multiple = 1;
-
-            while dividend >= (temp_divisor << 1) {
-                temp_divisor <<= 1;
-                multiple <<= 1;
-            }
-
-            dividend -= temp_divisor;
-            quotient += multiple;
-        }
-
-        if negative {
-            -(quotient as i32)
-        } else {
-            quotient as i32
-        }
+        dividend / divisor
     }
 }
+
