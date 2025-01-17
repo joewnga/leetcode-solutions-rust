@@ -37,8 +37,8 @@ Note that some of the solutions have multiple approaches implemented
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Solution](./leetcode/divide_two_integers.rs) | Medium |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./leetcode/substring_concatenation.rs) | Hard |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](./leetcode/next_permutation.rs) | Medium |
-| >32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./leetcode/longest_valid_parentheses.rs) | Hard |
-| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./leetcode/search_in_rotated_sorted_array.rs) | Hard |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./leetcode/longest_valid_parentheses.rs) | Hard |
+| >33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./leetcode/search_in_rotated_sorted_array.rs) | Hard |
 | 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Solution](./leetcode/search_for_a_range.rs) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](./leetcode/search_insert_position.rs) | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./leetcode/valid_sudoku.rs) | Easy |

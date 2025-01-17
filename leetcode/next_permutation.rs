@@ -10,12 +10,10 @@
 /// Example 1:
 /// Input: nums = [1,2,3]
 /// Output: [1,3,2]
-/// Explanation: The next permutation is obtained by swapping 2 and 3.
 ///
 /// Example 2:
 /// Input: nums = [3,2,1]
 /// Output: [1,2,3]
-/// Explanation: No next permutation, so return the lowest permutation.
 ///
 /// Example 3:
 /// Input: nums = [1,1,5]
