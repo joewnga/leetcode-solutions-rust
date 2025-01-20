@@ -40,8 +40,8 @@ Note that some of the solutions have multiple approaches implemented
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./leetcode/longest_valid_parentheses.rs) | Hard |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./leetcode/search_in_rotated_sorted_array.rs) | Hard |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Solution](./leetcode/find-first-and-last.rs) | Medium |
-| >35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](./leetcode/search_insert_position.rs) | Medium |
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./leetcode/valid_sudoku.rs) | Easy |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](./leetcode/search_insert_position.rs) | Medium |
+| >36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./leetcode/valid_sudoku.rs) | Easy |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution](./leetcode/sudoku_solver.rs) | Hard |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](./leetcode/count_and_say.rs) | Easy |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](./leetcode/combination_sum.rs) | Medium |
