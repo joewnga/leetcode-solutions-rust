@@ -27,10 +27,9 @@
 /// - **All numbers are distinct.**
 ///
 /// # Solution:
-/// - **Backtracking approach** is optimal.
-/// - **Swap elements in-place** to generate permutations efficiently.
-/// - **Time Complexity:** `O(n!)`, since there are `n!` permutations.
-/// - **Space Complexity:** `O(n)`, for recursion depth.
+///
+/// - **Time Complexity:** `O(n!)`
+/// - **Space Complexity:** `O(n)`
 impl Solution {
     pub fn permute(nums: Vec<i32>) -> Vec<Vec<i32>> {
         let mut result = Vec::new();
