@@ -41,7 +41,7 @@ Note that some of the solutions have multiple approaches implemented
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./leetcode/search_in_rotated_sorted_array.rs) | Hard |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Solution](./leetcode/find-first-and-last.rs) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](./leetcode/search_insert_position.rs) | Medium |
-| >36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./leetcode/valid_sudoku.rs) | Easy |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./leetcode/valid_sudoku.rs) | Easy |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution](./leetcode/sudoku_solver.rs) | Hard |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](./leetcode/count_and_say.rs) | Easy |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](./leetcode/combination_sum.rs) | Medium |
@@ -53,7 +53,7 @@ Note that some of the solutions have multiple approaches implemented
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](./leetcode/jump_game_ii.rs) | Hard |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./leetcode/permutations.rs) | Medium |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](./leetcode/permutations_ii.rs) | Hard |
-| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./leetcode/rotate_image.rs) | Medium |
+| >48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./leetcode/rotate_image.rs) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/anagrams/) | [Solution](./leetcode/group_anagrams.rs) | Medium |
 | 50 | ["Pow(x, n)"](https://leetcode.com/problems/powx-n/) | [Solution](./leetcode/pow_x_n.rs) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Solution](./leetcode/n_queens.rs) | Hard |
