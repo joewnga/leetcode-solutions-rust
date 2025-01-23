@@ -55,7 +55,7 @@ Note that some of the solutions have multiple approaches implemented
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](./leetcode/permutations_ii.rs) | Hard |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./leetcode/rotate_image.rs) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./leetcode/group_anagrams.rs) | Medium |
-| >50 | ["Pow(x, n)"](https://leetcode.com/problems/powx-n/) | [Solution](./leetcode/pow_x_n.rs) | Medium |
+| 50 | ["Pow(x, n)"](https://leetcode.com/problems/powx-n/) | [Solution](./leetcode/pow_x_n.rs) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Solution](./leetcode/n_queens.rs) | Hard |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Solution](./leetcode/n_queens_ii.rs) | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./leetcode/maximum_subarray.rs) | Medium |
@@ -66,7 +66,7 @@ Note that some of the solutions have multiple approaches implemented
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./leetcode/length_of_last_word.rs) | Easy |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./leetcode/spiral_matrix_ii.rs) | Medium |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](./leetcode/permutation_sequence.rs) | Medium |
-| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./leetcode/rotate_list.rs) | Medium |
+| >61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./leetcode/rotate_list.rs) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./leetcode/unique_paths.rs) | Medium |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./leetcode/unique_paths_ii.rs) | Medium |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./leetcode/minimum_path_sum.rs) | Medium |
