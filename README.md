@@ -53,9 +53,9 @@ Note that some of the solutions have multiple approaches implemented
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](./leetcode/jump_game_ii.rs) | Hard |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./leetcode/permutations.rs) | Medium |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](./leetcode/permutations_ii.rs) | Hard |
-| >48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./leetcode/rotate_image.rs) | Medium |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./leetcode/rotate_image.rs) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./leetcode/group_anagrams.rs) | Medium |
-| 50 | ["Pow(x, n)"](https://leetcode.com/problems/powx-n/) | [Solution](./leetcode/pow_x_n.rs) | Medium |
+| >50 | ["Pow(x, n)"](https://leetcode.com/problems/powx-n/) | [Solution](./leetcode/pow_x_n.rs) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Solution](./leetcode/n_queens.rs) | Hard |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Solution](./leetcode/n_queens_ii.rs) | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./leetcode/maximum_subarray.rs) | Medium |
