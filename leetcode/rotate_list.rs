@@ -50,33 +50,34 @@ impl Solution {
             return head;
         }
 
-        
         let mut length = 1;
-        let mut tail = head.as_ref().unwrap(); 
+        let mut tail = head.as_ref()?; 
         while let Some(ref next) = tail.next {
             tail = next;
             length += 1;
         }
 
+        
         let k = k as usize % length;
         if k == 0 {
             return head;
         }
 
         let mut head = head;
-        let mut new_tail = head.as_mut().unwrap();
+        let mut new_tail = head.as_mut()?; 
         for _ in 0..(length - k - 1) {
-            new_tail = new_tail.next.as_mut().unwrap();
+            new_tail = new_tail.next.as_mut()?;
         }
 
+        
         let mut new_head = new_tail.next.take();
         new_tail.next = None; 
 
-        let mut temp = &mut new_head;
-        while temp.as_mut().unwrap().next.is_some() {
-            temp = &mut temp.as_mut().unwrap().next;
+        let mut temp = new_head.as_mut()?; 
+        while temp.next.is_some() {
+            temp = temp.next.as_mut()?;
         }
-        temp.as_mut().unwrap().next = head;
+        temp.next = head; 
 
         new_head
     }

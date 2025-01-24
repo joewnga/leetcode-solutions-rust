@@ -66,8 +66,8 @@ Note that some of the solutions have multiple approaches implemented
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./leetcode/length_of_last_word.rs) | Easy |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./leetcode/spiral_matrix_ii.rs) | Medium |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](./leetcode/permutation_sequence.rs) | Medium |
-| >61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./leetcode/rotate_list.rs) | Medium |
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./leetcode/unique_paths.rs) | Medium |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./leetcode/rotate_list.rs) | Medium |
+| >62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./leetcode/unique_paths.rs) | Medium |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./leetcode/unique_paths_ii.rs) | Medium |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./leetcode/minimum_path_sum.rs) | Medium |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Solution](./leetcode/valid_number.rs) | Easy |
