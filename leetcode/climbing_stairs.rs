@@ -24,7 +24,7 @@
 /// - `1 <= n <= 45`
 ///
 /// # Solution:
-/// /// - **Time Complexity:** `O(n)`
+/// - **Time Complexity:** `O(n)`
 /// - **Space Complexity:** `O(1)`
 impl Solution {
     pub fn climb_stairs(n: i32) -> i32 {
