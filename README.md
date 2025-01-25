@@ -67,7 +67,7 @@ Note that some of the solutions have multiple approaches implemented
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./leetcode/spiral_matrix_ii.rs) | Medium |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](./leetcode/permutation_sequence.rs) | Medium |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./leetcode/rotate_list.rs) | Medium |
-| >62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./leetcode/unique_paths.rs) | Medium |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./leetcode/unique_paths.rs) | Medium |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./leetcode/unique_paths_ii.rs) | Medium |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./leetcode/minimum_path_sum.rs) | Medium |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Solution](./leetcode/valid_number.rs) | Easy |
@@ -78,7 +78,7 @@ Note that some of the solutions have multiple approaches implemented
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./leetcode/climbing_stairs.rs) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution](./leetcode/simplify_path.rs) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](./leetcode/edit_distance.rs) | Hard |
-| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./leetcode/set_matrix_zeroes.rs) | Medium |
+| >73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./leetcode/set_matrix_zeroes.rs) | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./leetcode/search_a_2d_matrix.rs) | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./leetcode/sort_colors.rs) | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./leetcode/minimum_window_substring.rs) | Hard |
