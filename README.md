@@ -78,7 +78,7 @@ Note that some of the solutions have multiple approaches implemented
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./leetcode/climbing_stairs.rs) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution](./leetcode/simplify_path.rs) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](./leetcode/edit_distance.rs) | Hard |
-| >73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./leetcode/set_matrix_zeroes.rs) | Medium |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./leetcode/set_matrix_zeroes.rs) | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./leetcode/search_a_2d_matrix.rs) | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./leetcode/sort_colors.rs) | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./leetcode/minimum_window_substring.rs) | Hard |
@@ -86,7 +86,7 @@ Note that some of the solutions have multiple approaches implemented
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./leetcode/subsets.rs) | Medium |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./leetcode/word_search.rs) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./leetcode/remove_duplicates_sorted_array_ii.rs) | Medium |
-| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./leetcode/search_in_rotated_sorted_array_ii.rs) | Medium |
+| >81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./leetcode/search_in_rotated_sorted_array_ii.rs) | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./leetcode/remove_duplicates_sorted_list_ii.rs) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./leetcode/remove_duplicates_sorted_list.rs) | Easy |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./leetcode/largest_rectangle_histogram.rs) | Hard |
