@@ -86,7 +86,7 @@ Note that some of the solutions have multiple approaches implemented
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./leetcode/subsets.rs) | Medium |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./leetcode/word_search.rs) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./leetcode/remove_duplicates_sorted_array_ii.rs) | Medium |
-| >81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./leetcode/search_in_rotated_sorted_array_ii.rs) | Medium |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./leetcode/search_in_rotated_sorted_array_ii.rs) | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./leetcode/remove_duplicates_sorted_list_ii.rs) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./leetcode/remove_duplicates_sorted_list.rs) | Easy |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./leetcode/largest_rectangle_histogram.rs) | Hard |
@@ -96,7 +96,7 @@ Note that some of the solutions have multiple approaches implemented
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./leetcode/merge_sorted_array.rs) | Easy |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [Solution](./leetcode/gray_code.rs) | Medium |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Solution](./leetcode/subsets_ii.rs) | Medium |
-| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./leetcode/decode_ways.rs) | Medium |
+| >91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./leetcode/decode_ways.rs) | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./leetcode/reverse_linked_list_ii.rs) | Medium |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](./leetcode/restore_ip_addresses.rs) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./leetcode/binary_tree_inorder_traversal.rs) | Medium |
