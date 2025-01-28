@@ -1,6 +1,6 @@
 # LeetCode Solutions in Rust
 
-Note that some of the solutions have multiple approaches implemented
+Note: Some solutions have multiple approaches implemented
 
 ## LeetCode Algorithm
 
