@@ -96,9 +96,9 @@ Note that some of the solutions have multiple approaches implemented
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./leetcode/merge_sorted_array.rs) | Easy |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [Solution](./leetcode/gray_code.rs) | Medium |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Solution](./leetcode/subsets_ii.rs) | Medium |
-| >91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./leetcode/decode_ways.rs) | Medium |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./leetcode/decode_ways.rs) | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./leetcode/reverse_linked_list_ii.rs) | Medium |
-| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](./leetcode/restore_ip_addresses.rs) | Medium |
+| >93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](./leetcode/restore_ip_addresses.rs) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./leetcode/binary_tree_inorder_traversal.rs) | Medium |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Solution](./leetcode/unique_binary_search_trees_ii.rs) | Medium |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./leetcode/unique_binary_search_trees.rs) | Medium |
