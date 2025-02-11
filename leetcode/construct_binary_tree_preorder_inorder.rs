@@ -47,27 +47,34 @@
 // }
 use std::rc::Rc;
 use std::cell::RefCell;
+use std::collections::HashMap;
 impl Solution {
     pub fn build_tree(preorder: Vec<i32>, inorder: Vec<i32>) -> Option<Rc<RefCell<TreeNode>>> {
-        if preorder.is_empty() {
+        let index_map: HashMap<_, _> = inorder.iter().enumerate().map(|(i, &val)| (val, i as i32)).collect();
+        let mut pre_idx = 0;
+        Self::build_tree_helper(&preorder, &mut pre_idx, 0, inorder.len() as i32 - 1, &index_map)
+    }
+
+    fn build_tree_helper(
+        preorder: &[i32],
+        pre_idx: &mut usize,
+        in_start: i32,
+        in_end: i32,
+        index_map: &HashMap<i32, i32>,
+    ) -> Option<Rc<RefCell<TreeNode>>> {
+        if in_start > in_end {
             return None;
         }
 
-        let root_val = preorder[0];
-        let root = Rc::new(RefCell::new(TreeNode::new(root_val)));
+        let root_val = preorder[*pre_idx];
+        *pre_idx += 1;
 
-        let inorder_index = inorder.iter().position(|&x| x == root_val).unwrap();
+        let mut root = TreeNode::new(root_val);
+        let in_root = index_map[&root_val];
 
-        root.borrow_mut().left = Self::build_tree(
-            preorder[1..=inorder_index].to_vec(), 
-            inorder[..inorder_index].to_vec(),
-        );
+        root.left = Self::build_tree_helper(preorder, pre_idx, in_start, in_root - 1, index_map);
+        root.right = Self::build_tree_helper(preorder, pre_idx, in_root + 1, in_end, index_map);
 
-        root.borrow_mut().right = Self::build_tree(
-            preorder[inorder_index + 1..].to_vec(), 
-            inorder[inorder_index + 1..].to_vec(),
-        );
-
-        Some(root)
+        Some(Rc::new(RefCell::new(root)))
     }
 }
