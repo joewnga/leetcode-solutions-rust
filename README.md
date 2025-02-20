@@ -111,3 +111,38 @@ Note: Some solutions have multiple approaches implemented
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)                                           | [Solution](./leetcode/binary_tree_zigzag_level_order_traversal.rs)       | Medium     |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                                   | [Solution](./leetcode/maximum_depth_of_binary_tree.rs)                   | Easy       |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)         | [Solution](./leetcode/construct_binary_tree_preorder_inorder.rs)         | Medium     |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./leetcode/construct_binary_tree_inorder_postorder.rs) | Medium |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](./leetcode/binary_tree_level_order_traversal_ii.rs) | Medium |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./leetcode/convert_sorted_array_to_bst.rs) | Easy |
+| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Solution](./leetcode/convert_sorted_list_to_bst.rs) | Medium |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./leetcode/balanced_binary_tree.rs) | Easy |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./leetcode/minimum_depth_of_binary_tree.rs) | Easy |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./leetcode/path_sum.rs) | Easy |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Solution](./leetcode/path_sum_ii.rs) | Medium |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./leetcode/flatten_binary_tree.rs) | Medium |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./leetcode/distinct_subsequences.rs) | Hard |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./leetcode/populating_next_right_pointers.rs) | Medium |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./leetcode/populating_next_right_pointers_ii.rs) | Medium |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./leetcode/pascals_triangle.rs) | Easy |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](./leetcode/pascals_triangle_ii.rs) | Easy |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Solution](./leetcode/triangle.rs) | Medium |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./leetcode/best_time_to_buy_and_sell_stock.rs) | Easy |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./leetcode/best_time_to_buy_and_sell_stock_ii.rs) | Medium |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](./leetcode/best_time_to_buy_and_sell_stock_iii.rs) | Hard |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./leetcode/binary_tree_maximum_path_sum.rs) | Hard |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./leetcode/valid_palindrome.rs) | Easy |
+| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Solution](./leetcode/word_ladder_ii.rs) | Hard |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](./leetcode/word_ladder.rs) | Hard |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./leetcode/longest_consecutive_sequence.rs) | Medium |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](./leetcode/sum_root_to_leaf_numbers.rs) | Medium |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Solution](./leetcode/surrounded_regions.rs) | Medium |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](./leetcode/palindrome_partitioning.rs) | Medium |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Solution](./leetcode/palindrome_partitioning_ii.rs) | Hard |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./leetcode/clone_graph.rs) | Medium |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution](./leetcode/gas_station.rs) | Medium |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [Solution](./leetcode/candy.rs) | Hard |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./leetcode/single_number.rs) | Easy |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Solution](./leetcode/single_number_ii.rs) | Medium |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./leetcode/copy_list_with_random_pointer.rs) | Medium |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Solution](./leetcode/word_break.rs) | Medium |
+| 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution](./leetcode/word_break_ii.rs) | Hard |
