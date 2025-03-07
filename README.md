@@ -117,8 +117,8 @@ Note: Some solutions have multiple approaches implemented
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Solution](./leetcode/convert_sorted_list_to_bst.rs) | Medium |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./leetcode/balanced_binary_tree.rs) | Easy |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./leetcode/minimum_depth_of_binary_tree.rs) | Easy |
-| >112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./leetcode/path_sum.rs) | Easy |
-| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Solution](./leetcode/path_sum_ii.rs) | Medium |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./leetcode/path_sum.rs) | Easy |
+| >113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Solution](./leetcode/path_sum_ii.rs) | Medium |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./leetcode/flatten_binary_tree.rs) | Medium |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./leetcode/distinct_subsequences.rs) | Hard |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./leetcode/populating_next_right_pointers.rs) | Medium |
