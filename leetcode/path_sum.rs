@@ -49,7 +49,7 @@
 //   }
 // }
 
-// # Solution 
+// # Solution
 // Time complexity: O(n) 
 // Space complexity: O(h) - Where h is the height of the tree 
 
