@@ -119,8 +119,8 @@ Note: Some solutions have multiple approaches implemented
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./leetcode/minimum_depth_of_binary_tree.rs) | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./leetcode/path_sum.rs) | Easy |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Solution](./leetcode/path_sum_ii.rs) | Medium |
-| >114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./leetcode/flatten_binary_tree.rs) | Medium |
-| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./leetcode/distinct_subsequences.rs) | Hard |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./leetcode/flatten_binary_tree.rs) | Medium |
+| >115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./leetcode/distinct_subsequences.rs) | Hard |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./leetcode/populating_next_right_pointers.rs) | Medium |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./leetcode/populating_next_right_pointers_ii.rs) | Medium |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./leetcode/pascals_triangle.rs) | Easy |
