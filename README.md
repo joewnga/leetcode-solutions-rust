@@ -141,7 +141,6 @@ Note: Some solutions have multiple approaches implemented
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Solution](./leetcode/candy.rs) | Hard |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./leetcode/single_number.rs) | Easy |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Solution](./leetcode/single_number_ii.rs) | Medium |
-| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./leetcode/copy_list_with_random_pointer.rs) | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Solution](./leetcode/word_break.rs) | Medium |
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution](./leetcode/word_break_ii.rs) | Hard |
 
